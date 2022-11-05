@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650939714798",
+    "firebase_url": "https://anonimchatguest-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anonimchatguest",
+    "storage_bucket": "anonimchatguest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650939714798:android:838813345fd299f4ad37ff",
+        "android_client_info": {
+          "package_name": "anonimchatguest.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650939714798-2rhtfb311g3uiihfp6925djvmqabdpen.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anonimchatguest.app",
+            "certificate_hash": "fed440aa74ede181a75a08a80cc0e069f94693fc"
+          }
+        },
+        {
+          "client_id": "650939714798-6k61da86gjvfsd9e2qdn42tg0i2ajl5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Z41PH5MGzgs5UvOUmLPG2sxWhNlatY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650939714798-6k61da86gjvfsd9e2qdn42tg0i2ajl5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
